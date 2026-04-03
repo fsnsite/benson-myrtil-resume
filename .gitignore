@@ -14,3 +14,4 @@ gen
 
 # Exceptions
 !.gitignore
+!.terraform.lock.hcl
